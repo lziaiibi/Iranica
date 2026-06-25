@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 125,
+    "height" : 172
+  }, {
+    "width" : 250,
+    "height" : 344
+  }, {
+    "width" : 500,
+    "height" : 687
+  }, {
+    "width" : 1000,
+    "height" : 1374
+  }, {
+    "width" : 2000,
+    "height" : 2748
+  }, {
+    "width" : 4000,
+    "height" : 5495
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 4000,
+  "@id" : "https://lziaiibi.github.io/Iranica/images/Figure1a",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 5495
+}
